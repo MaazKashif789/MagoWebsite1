@@ -1,0 +1,55 @@
+[
+    {
+      "Category":"General Plastics (Polymers)",
+      "Image_Path": "../assets/polymers.jpg"
+    },
+
+    {
+      "Category":"Engineering Plastics",
+      "Image_Path":"../assets/engineering_plastics.png"
+    },
+    {
+      "Category":"Rubbers & Elastomers",
+      "Image_Path":"../assets/Products/rubber.jpg"
+
+    },
+
+    {
+      "Category":"PU & PU Raw Materials",
+      "Image_Path":"../assets/Products/PU.png"
+    },
+    {
+      "Category":"Plasticizers",
+      "Image_Path":"../assets/Products/Plasticizers.png"
+      
+    },
+    {
+      "Category":"Blowing Agents & Crosslinkers",
+      "Image_Path":"../assets/Products/blowing_agent.png"
+    },
+    {
+      "Category":"Stabilizers, Additives & Processing Aids",
+      "Image_Path":"../assets/Products/additive.png"
+    },
+    {
+      "Category":"Fillers & Reinforcements",
+      "Image_Path":"../assets/Products/Fillers.png"
+    },
+    {
+      "Category":"Pigments & Colorants",
+      "Image_Path":"../assets/Products/pigments.png"
+    },
+    {
+      "Category":"Solvents",
+      "Image_Path":"../assets/Products/solvents.png"
+    },
+    {
+      "Category":"Specialty Chemicals",
+      "Image_Path":"../assets/Products/speciality.png"
+    },
+    {
+      "Category":"Anhydrides & Oxides",
+      "Image_Path":"../assets/Products/oxides.png"
+    }
+
+  ]
