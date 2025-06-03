@@ -1,0 +1,970 @@
+[
+  {
+    "Product":"Ethylene Vinyl Acetate (EVA)",
+    "HS_Code":3901.3,
+    "Common Grades":"VA Content 5%\u201340%",
+    "Applications":"Footwear soles, adhesives, films, foams, packaging, toys.",
+    "Category":"General Plastics (Polymers)",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Polyolefin Elastomer (POE)",
+    "HS_Code":3901.9,
+    "Common Grades":"Engage 8003, Versify 2000",
+    "Applications":"Adhesives, sealants, flexible packaging, impact modifiers, automotive parts.",
+    "Category":"General Plastics (Polymers)",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Polyethylene (PE)",
+    "HS_Code":3901.2,
+    "Common Grades":"LDPE, LLDPE, HDPE",
+    "Applications":"Films, bags, pipes, containers, bottles, geomembranes.",
+    "Category":"General Plastics (Polymers)",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Polyethylene Terephthalate (PET)",
+    "HS_Code":3907.61,
+    "Common Grades":"Bottle Grade, Film Grade",
+    "Applications":"Bottles, films, fibers; food-grade available.",
+    "Category":"General Plastics (Polymers)",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Polyhydroxyalkanoates (PHA)",
+    "HS_Code":3916.9,
+    "Common Grades":"PHA 1, PHA 3",
+    "Applications":"Biodegradable films, medical implants, coatings.",
+    "Category":"General Plastics (Polymers)",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Polylactic Acid (PLA)",
+    "HS_Code":3907.7,
+    "Common Grades":"Ingeo 2003D, 4032D",
+    "Applications":"Compostable packaging, 3D-printing filament, fibers.",
+    "Category":"General Plastics (Polymers)",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Polypropylene (PP)",
+    "HS_Code":3902.1,
+    "Common Grades":"Homo Polymer, Random Copolymer, Impact Copolymer",
+    "Applications":"Packaging, automotive parts, textiles, household goods, fibers.",
+    "Category":"General Plastics (Polymers)",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Polystyrene (PS)",
+    "HS_Code":3903.19,
+    "Common Grades":"GPPS, HIPS",
+    "Applications":"Packaging, household goods, insulation.",
+    "Category":"General Plastics (Polymers)",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Polyvinyl Chloride (PVC)",
+    "HS_Code":3904.1,
+    "Common Grades":"SG5, SG7, SG8, K67, K70",
+    "Applications":"Pipes, profiles, cables, medical devices, flooring, films.",
+    "Category":"General Plastics (Polymers)",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Purified Terephthalic Acid (PTA)",
+    "HS_Code":2917.36,
+    "Common Grades":"Fiber Grade, PET Grade",
+    "Applications":"Polyester fiber, PET resin production.",
+    "Category":"General Plastics (Polymers)",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Recycled Plastics",
+    "HS_Code":3915.1,
+    "Common Grades":"rPE, rPP, rPET (70%\u201380% recycled content)",
+    "Applications":"Sustainable packaging, molded products, construction, fibers.",
+    "Category":"General Plastics (Polymers)",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Acrylonitrile Butadiene Styrene (ABS)",
+    "HS_Code":3903.3,
+    "Common Grades":"750SW, PA-757, Terluran GP-22",
+    "Applications":"Automotive parts, appliance housings, pipes.",
+    "Category":"Engineering Plastics",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Nylon (PA6, PA66)",
+    "HS_Code":3908.1,
+    "Common Grades":"PA6 B301, PA66 A216",
+    "Applications":"Engineering components, fibers, automotive parts.",
+    "Category":"Engineering Plastics",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Polycarbonate (PC)",
+    "HS_Code":3907.4,
+    "Common Grades":"Makrolon 2805, 3103",
+    "Applications":"Lenses, automotive glazing, electronics.",
+    "Category":"Engineering Plastics",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Polymethyl Methacrylate (PMMA)",
+    "HS_Code":3906.1,
+    "Common Grades":"GM-20, CM-205",
+    "Applications":"Lighting fixtures, signs, automotive parts.",
+    "Category":"Engineering Plastics",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Polyoxymethylene (POM)",
+    "HS_Code":3907.1,
+    "Common Grades":"M90, Hostaform C9021",
+    "Applications":"Gears, fasteners, precision parts.",
+    "Category":"Engineering Plastics",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Styrene Acrylonitrile (SAN)",
+    "HS_Code":3903.2,
+    "Common Grades":"Standard, Impact Resistant",
+    "Applications":"Appliances, medical devices, lamps.",
+    "Category":"Engineering Plastics",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Butyl Rubber (IIR)",
+    "HS_Code":4002.31,
+    "Common Grades":"Bromo-Butyl 2030, 2222",
+    "Applications":"Inner tubes, pharmaceutical stoppers.",
+    "Category":"Rubbers & Elastomers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Carboxylated NBR (XNBR)",
+    "HS_Code":4002.59,
+    "Common Grades":"XNBR 3380, 3680",
+    "Applications":"Rubber gloves, abrasion-resistant gaskets.",
+    "Category":"Rubbers & Elastomers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Chloroprene Rubber (CR)",
+    "HS_Code":4002.41,
+    "Common Grades":"Neoprene WRT, GRT",
+    "Applications":"Hoses, belts, adhesives.",
+    "Category":"Rubbers & Elastomers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Ethylene Propylene Diene Rubber (EPDM)",
+    "HS_Code":4002.7,
+    "Common Grades":"Keltan 512, 8555",
+    "Applications":"Automotive weather seals, roofing membranes.",
+    "Category":"Rubbers & Elastomers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Ethylene Propylene Rubber (EPM)",
+    "HS_Code":4002.7,
+    "Common Grades":"Keltan 3010, 1566",
+    "Applications":"Wire insulation, automotive hoses, sealants.",
+    "Category":"Rubbers & Elastomers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Fluorocarbon Rubber (FKM)",
+    "HS_Code":4002.99,
+    "Common Grades":"Viton A, Viton B",
+    "Applications":"Chemical seals, automotive gaskets.",
+    "Category":"Rubbers & Elastomers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Hydrogenated Nitrile Rubber (HNBR)",
+    "HS_Code":4002.59,
+    "Common Grades":"Zetpol 2000, Therban A3407",
+    "Applications":"Oil seals, O-rings.",
+    "Category":"Rubbers & Elastomers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Liquid Rubber (LIR, LBR)",
+    "HS_Code":4002.99,
+    "Common Grades":"LBR 300, LIR 50",
+    "Applications":"Modifier for TPE, adhesives, impact strength.",
+    "Category":"Rubbers & Elastomers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Natural Rubber (NR)",
+    "HS_Code":4001.22,
+    "Common Grades":"RSS3, TSR20, Latex",
+    "Applications":"Tires, conveyor belts, footwear.",
+    "Category":"Rubbers & Elastomers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Nitrile Butadiene Rubber (NBR)",
+    "HS_Code":4002.59,
+    "Common Grades":"NBR 3355, 3365",
+    "Applications":"Fuel hoses, seals, gloves.",
+    "Category":"Rubbers & Elastomers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Polybutadiene Rubber (BR)",
+    "HS_Code":4002.2,
+    "Common Grades":"BR9000, BR1220",
+    "Applications":"Tire treads, sports goods.",
+    "Category":"Rubbers & Elastomers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Reclaimed Rubber",
+    "HS_Code":4003.0,
+    "Common Grades":"Whole Tire Reclaim",
+    "Applications":"Low-cost rubber goods, mats.",
+    "Category":"Rubbers & Elastomers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Release Agents for EVA Rubber",
+    "HS_Code":3403.19,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Demolding in rubber\/EVA processing, improves surface finish.",
+    "Category":"Rubbers & Elastomers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Rice Rubber Roll",
+    "HS_Code":4016.99,
+    "Common Grades":"Agro Grade",
+    "Applications":"Rice milling for dehusking grains.",
+    "Category":"Rubbers & Elastomers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Silicone Rubber (VMQ)",
+    "HS_Code":4002.99,
+    "Common Grades":"Industrial Grade",
+    "Applications":"High-temp gaskets, bakeware, medical devices.",
+    "Category":"Rubbers & Elastomers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Solution Styrene Butadiene Rubber (SSBR)",
+    "HS_Code":4002.19,
+    "Common Grades":"SSBR 1723, 1728",
+    "Applications":"High-performance tires, treads.",
+    "Category":"Rubbers & Elastomers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Styrene Butadiene Rubber (SBR)",
+    "HS_Code":4002.19,
+    "Common Grades":"SBR 1502, 1712",
+    "Applications":"Tires, seals, hoses.",
+    "Category":"Rubbers & Elastomers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Thermoplastic Elastomers (TPE, SEBS, SBS)",
+    "HS_Code":4002.99,
+    "Common Grades":"Kraton G, Kraton D",
+    "Applications":"Footwear, seals, automotive parts.",
+    "Category":"Rubbers & Elastomers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Thermoplastic Vulcanizates (TPV)",
+    "HS_Code":4002.99,
+    "Common Grades":"Santoprene 201-55",
+    "Applications":"Soft-touch automotive trims, gaskets.",
+    "Category":"Rubbers & Elastomers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"1,4-Butanediol (BDO)",
+    "HS_Code":2905.39,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Chain extender in PU, TPU production.",
+    "Category":"PU & PU Raw Materials",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Adipic Acid",
+    "HS_Code":2917.12,
+    "Common Grades":"Polymer Grade",
+    "Applications":"Nylon 6,6, PU production.",
+    "Category":"PU & PU Raw Materials",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Dimethylolpropionic Acid (DMPA)",
+    "HS_Code":2918.18,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Water-based PU dispersions (PUDs).",
+    "Category":"PU & PU Raw Materials",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Hexamethylene Diisocyanate (HDI)",
+    "HS_Code":2929.1,
+    "Common Grades":"Monomeric, Trimer",
+    "Applications":"Automotive and industrial PU coatings.",
+    "Category":"PU & PU Raw Materials",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Isophorone Diisocyanate (IPDI)",
+    "HS_Code":2929.1,
+    "Common Grades":"Aliphatic Grade",
+    "Applications":"UV-resistant PU coatings.",
+    "Category":"PU & PU Raw Materials",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Methylene Diphenyl Diisocyanate (MDI)",
+    "HS_Code":3909.31,
+    "Common Grades":"Pure MDI, Suprasec 2642",
+    "Applications":"Flexible and rigid foams, adhesives, coatings; key component for PU systems.",
+    "Category":"PU & PU Raw Materials",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"N-Methylpyrrolidone (NMP)",
+    "HS_Code":2933.79,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Solvent for PU synthesis, synthetic leather.",
+    "Category":"PU & PU Raw Materials",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Polycaprolactone Polyol",
+    "HS_Code":3907.99,
+    "Common Grades":"CAPA 2200, 2402",
+    "Applications":"TPU, cast elastomers.",
+    "Category":"PU & PU Raw Materials",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Polyester Polyols",
+    "HS_Code":3907.91,
+    "Common Grades":"3152, 3252",
+    "Applications":"Coatings, adhesives, elastomers.",
+    "Category":"PU & PU Raw Materials",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Polyether Polyols",
+    "HS_Code":3907.2,
+    "Common Grades":"3050, 5613",
+    "Applications":"Flexible foams, elastomers.",
+    "Category":"PU & PU Raw Materials",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Polymeric MDI (PMDI)",
+    "HS_Code":3909.31,
+    "Common Grades":"M20S, Suprasec 5005",
+    "Applications":"Rigid foam insulation, elastomers; essential for PU systems.",
+    "Category":"PU & PU Raw Materials",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"PU Dispersions (PUDs)",
+    "HS_Code":3909.5,
+    "Common Grades":"Water-based Systems",
+    "Applications":"Eco-friendly coatings, synthetic leather.",
+    "Category":"PU & PU Raw Materials",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"PU System for Coating",
+    "HS_Code":3909.5,
+    "Common Grades":"High Durability Systems",
+    "Applications":"Protective coatings, paints for industrial and automotive use.",
+    "Category":"PU & PU Raw Materials",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"PU System for Leather",
+    "HS_Code":3909.5,
+    "Common Grades":"Finishing Systems",
+    "Applications":"Synthetic leather coatings for furniture, automotive.",
+    "Category":"PU & PU Raw Materials",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"PU System for Shoes",
+    "HS_Code":3909.5,
+    "Common Grades":"Footwear Grade Systems",
+    "Applications":"Soles, insoles, midsoles for athletic and casual footwear.",
+    "Category":"PU & PU Raw Materials",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Thermoplastic Polyurethane (TPU)",
+    "HS_Code":3909.5,
+    "Common Grades":"Estane 58277, Desmopan 9370",
+    "Applications":"Footwear, gaskets, films, medical devices.",
+    "Category":"PU & PU Raw Materials",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Toluene Diisocyanate (TDI)",
+    "HS_Code":2929.1,
+    "Common Grades":"TDI-80\/20, TDI-65\/35",
+    "Applications":"Flexible foams, sealants.",
+    "Category":"PU & PU Raw Materials",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Trimethylolpropane (TMP)",
+    "HS_Code":2905.41,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Crosslinking agent in PU coatings, elastomers.",
+    "Category":"PU & PU Raw Materials",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Acetyl Tributyl Citrate (ATBC)",
+    "HS_Code":2918.15,
+    "Common Grades":"Food\/Pharma Grade",
+    "Applications":"Food packaging, toys; food-safe.",
+    "Category":"Plasticizers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Butyl Benzyl Phthalate (BBP)",
+    "HS_Code":2917.34,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Adhesives, sealants, vinyl flooring.",
+    "Category":"Plasticizers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Di-n-Butyl Phthalate (DBP)",
+    "HS_Code":2917.34,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Adhesives, sealants, paints; widely used in target markets.",
+    "Category":"Plasticizers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Diisodecyl Phthalate (DIDP)",
+    "HS_Code":2917.34,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Cables, synthetic leather, roofing membranes.",
+    "Category":"Plasticizers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Diisononyl Cyclohexane-1,2-Dicarboxylate (DINCH)",
+    "HS_Code":2917.2,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Medical devices, toys; non-phthalate option.",
+    "Category":"Plasticizers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Diisononyl Phthalate (DINP)",
+    "HS_Code":2917.34,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Automotive interiors, PVC flooring.",
+    "Category":"Plasticizers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Dioctyl Adipate (DOA)",
+    "HS_Code":2917.12,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Low-temperature flexible PVC.",
+    "Category":"Plasticizers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Dioctyl Phthalate (DOP)",
+    "HS_Code":2917.34,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Flexible PVC, cables, flooring; popular in target markets.",
+    "Category":"Plasticizers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Di-Octyl Terephthalate (DOTP)",
+    "HS_Code":2917.39,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Non-phthalate plasticizer for PVC cables, flooring.",
+    "Category":"Plasticizers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Epoxidized Soybean Oil (ESBO)",
+    "HS_Code":1518.0,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Secondary plasticizer, thermal stabilizer for PVC.",
+    "Category":"Plasticizers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Tributyl Citrate (TBC)",
+    "HS_Code":2918.15,
+    "Common Grades":"Food Grade",
+    "Applications":"Plasticizer for food-grade films, sensitive applications.",
+    "Category":"Plasticizers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Trioctyl Trimellitate (TOTM)",
+    "HS_Code":2917.39,
+    "Common Grades":"Industrial Grade",
+    "Applications":"High-temperature cables, medical devices.",
+    "Category":"Plasticizers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Dicumyl Peroxide (DCP)",
+    "HS_Code":2909.6,
+    "Common Grades":"DCP 40%, 98%",
+    "Applications":"Crosslinking of rubber, EVA.",
+    "Category":"Blowing Agents & Crosslinkers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"MBT (2-Mercaptobenzothiazole)",
+    "HS_Code":2934.2,
+    "Common Grades":"MBT Powder",
+    "Applications":"Rubber accelerator for tire production.",
+    "Category":"Blowing Agents & Crosslinkers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Modified Azodicarbonamide",
+    "HS_Code":2927.0,
+    "Common Grades":"AC Modified",
+    "Applications":"Low-odor foaming in EVA, PE.",
+    "Category":"Blowing Agents & Crosslinkers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Sodium Bicarbonate",
+    "HS_Code":2836.3,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Eco-friendly foaming in EVA, PE.",
+    "Category":"Blowing Agents & Crosslinkers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Sulfur",
+    "HS_Code":2503.0,
+    "Common Grades":"Rubber Grade",
+    "Applications":"Vulcanization of rubber.",
+    "Category":"Blowing Agents & Crosslinkers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"TBBS (N-Tert-Butyl-2-Benzothiazole Sulfenamide)",
+    "HS_Code":2934.2,
+    "Common Grades":"TBBS Granules",
+    "Applications":"Accelerator for tire rubbers.",
+    "Category":"Blowing Agents & Crosslinkers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Triallyl Isocyanurate (TAIC)",
+    "HS_Code":2933.69,
+    "Common Grades":"TAIC 98%",
+    "Applications":"Crosslinking in EVA, PE, solar encapsulants.",
+    "Category":"Blowing Agents & Crosslinkers",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Acrylic Processing Aid (ACR)",
+    "HS_Code":3906.9,
+    "Common Grades":"ACR-401, ACR-530",
+    "Applications":"Enhances melt strength in rigid PVC, EVA sheets.",
+    "Category":"Stabilizers, Additives & Processing Aids",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Antioxidants",
+    "HS_Code":3812.39,
+    "Common Grades":"Irganox 1010, 1076",
+    "Applications":"Prevents oxidative degradation in plastics, rubber.",
+    "Category":"Stabilizers, Additives & Processing Aids",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Calcium Stearate",
+    "HS_Code":2915.7,
+    "Common Grades":"Technical Grade",
+    "Applications":"PVC heat stabilizer, lubricant for rubber.",
+    "Category":"Stabilizers, Additives & Processing Aids",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Calcium\/Zinc Stabilizers",
+    "HS_Code":3812.39,
+    "Common Grades":"Lead-Free Blends",
+    "Applications":"Stabilization of PVC pipes, cables; non-toxic option.",
+    "Category":"Stabilizers, Additives & Processing Aids",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Lead Stearate",
+    "HS_Code":2915.7,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Heat stabilizer for rigid PVC pipes, cables; used in target markets.",
+    "Category":"Stabilizers, Additives & Processing Aids",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Optical Brighteners",
+    "HS_Code":3204.2,
+    "Common Grades":"OB-1, CBS-X",
+    "Applications":"Enhances brightness in EVA foams, plastics.",
+    "Category":"Stabilizers, Additives & Processing Aids",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Silane Coupling Agents",
+    "HS_Code":2931.9,
+    "Common Grades":"A1100, VTS",
+    "Applications":"Improves adhesion in rubber, plastics, paints.",
+    "Category":"Stabilizers, Additives & Processing Aids",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Stearic Acid",
+    "HS_Code":2915.7,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Lubricant, stabilizer in PVC, rubber, cosmetics.",
+    "Category":"Stabilizers, Additives & Processing Aids",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Tribasic Lead Sulfate (TBLS)",
+    "HS_Code":2833.29,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Heat stabilizer for rigid PVC pipes, fittings; used in target markets.",
+    "Category":"Stabilizers, Additives & Processing Aids",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"UV Stabilizers",
+    "HS_Code":3812.39,
+    "Common Grades":"UV-531, HALS",
+    "Applications":"Protects plastics, EVA, PU from UV degradation.",
+    "Category":"Stabilizers, Additives & Processing Aids",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Zinc Stearate",
+    "HS_Code":2915.7,
+    "Common Grades":"Technical Grade",
+    "Applications":"Lubricant, release agent in plastics, rubber.",
+    "Category":"Stabilizers, Additives & Processing Aids",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Barium Sulfate",
+    "HS_Code":2833.27,
+    "Common Grades":"325 Mesh",
+    "Applications":"Filler for coatings, plastics, rubber.",
+    "Category":"Fillers & Reinforcements",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Calcium Carbonate",
+    "HS_Code":2836.5,
+    "Common Grades":"325 Mesh, 800 Mesh",
+    "Applications":"Filler for plastics, paints, rubbers.",
+    "Category":"Fillers & Reinforcements",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Chlorinated Polyethylene (CPE)",
+    "HS_Code":3901.9,
+    "Common Grades":"Powder, Granule",
+    "Applications":"Flame-retardant filler for cables, hoses.",
+    "Category":"Fillers & Reinforcements",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Fumed Silica",
+    "HS_Code":2811.22,
+    "Common Grades":"AEROSIL 200, R972",
+    "Applications":"Thickening, reinforcing filler in rubber.",
+    "Category":"Fillers & Reinforcements",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Glass Fiber",
+    "HS_Code":7019.12,
+    "Common Grades":"Chopped, Milled",
+    "Applications":"Reinforcement for plastics, PU composites.",
+    "Category":"Fillers & Reinforcements",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Kaolin Clay",
+    "HS_Code":2507.0,
+    "Common Grades":"325 Mesh, Calcined",
+    "Applications":"Filler for PVC cables, rubber, paints.",
+    "Category":"Fillers & Reinforcements",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Talc Powder",
+    "HS_Code":2526.2,
+    "Common Grades":"400 Mesh, 800 Mesh",
+    "Applications":"Filler for plastics, paints, cosmetics.",
+    "Category":"Fillers & Reinforcements",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Carbon Black",
+    "HS_Code":2803.0,
+    "Common Grades":"N220, N330, N550",
+    "Applications":"Rubber reinforcement, inks, plastics.",
+    "Category":"Pigments & Colorants",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Chrome Yellow",
+    "HS_Code":3206.2,
+    "Common Grades":"Medium Chrome, Lemon Chrome",
+    "Applications":"Paints, plastics, coatings.",
+    "Category":"Pigments & Colorants",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Iron Oxide Pigments",
+    "HS_Code":2821.1,
+    "Common Grades":"Red 130, Yellow 920",
+    "Applications":"Construction, coatings, plastics.",
+    "Category":"Pigments & Colorants",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Organic Pigments (Azo)",
+    "HS_Code":3204.17,
+    "Common Grades":"Red 2B, Yellow HR",
+    "Applications":"Plastics, PU coatings, inks.",
+    "Category":"Pigments & Colorants",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Phthalocyanine Blue",
+    "HS_Code":3204.17,
+    "Common Grades":"PB15:3, PB15:1",
+    "Applications":"Plastics, coatings, inks.",
+    "Category":"Pigments & Colorants",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Titanium Dioxide (TiO\u2082)",
+    "HS_Code":2823.0,
+    "Common Grades":"Rutile R-902, Anatase R-706",
+    "Applications":"Paints, plastics, rubber, EVA whitening.",
+    "Category":"Pigments & Colorants",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Acetone",
+    "HS_Code":2914.11,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Solvent for plastics, coatings.",
+    "Category":"Solvents",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Butyl Acetate",
+    "HS_Code":2915.33,
+    "Common Grades":"Normal BA",
+    "Applications":"Solvent for coatings, inks.",
+    "Category":"Solvents",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Cyclohexanone",
+    "HS_Code":2914.22,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Solvent for paints, nylon production.",
+    "Category":"Solvents",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Ethyl Acetate",
+    "HS_Code":2915.31,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Solvent for coatings, pharmaceuticals.",
+    "Category":"Solvents",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Isopropyl Alcohol (IPA)",
+    "HS_Code":2905.12,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Disinfectant, electronics cleaning.",
+    "Category":"Solvents",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Naphthalene",
+    "HS_Code":2902.9,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Intermediate for dyes, plasticizers; used in mothballs.",
+    "Category":"Solvents",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Toluene",
+    "HS_Code":2902.3,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Coatings, adhesives, chemical feedstock.",
+    "Category":"Solvents",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"White Oil",
+    "HS_Code":2710.19,
+    "Common Grades":"Pharma Grade",
+    "Applications":"Cosmetics, pharmaceuticals, plastics.",
+    "Category":"Solvents",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Benzoic Acid",
+    "HS_Code":2916.31,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Food preservative, plasticizers.",
+    "Category":"Specialty Chemicals",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Citric Acid",
+    "HS_Code":2918.14,
+    "Common Grades":"Anhydrous, Monohydrate",
+    "Applications":"Food additive, cleaning agent.",
+    "Category":"Specialty Chemicals",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Coconut Oil",
+    "HS_Code":1513.19,
+    "Common Grades":"Refined",
+    "Applications":"Food, cosmetics, surfactants.",
+    "Category":"Specialty Chemicals",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Glacial Acetic Acid",
+    "HS_Code":2915.21,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Vinyl acetate monomer, adhesives.",
+    "Category":"Specialty Chemicals",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Glycerin",
+    "HS_Code":2905.45,
+    "Common Grades":"99.7% USP",
+    "Applications":"Cosmetics, pharmaceuticals, antifreeze.",
+    "Category":"Specialty Chemicals",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Monoethylene Glycol (MEG)",
+    "HS_Code":2905.31,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Antifreeze, PET resin production.",
+    "Category":"Specialty Chemicals",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Petroleum Resin",
+    "HS_Code":3911.1,
+    "Common Grades":"C5, C9",
+    "Applications":"Adhesives, coatings, rubber compounding.",
+    "Category":"Specialty Chemicals",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Phenolic Resin",
+    "HS_Code":3909.4,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Molding compounds, coatings, adhesives.",
+    "Category":"Specialty Chemicals",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Wax (Paraffin\/Microcrystalline)",
+    "HS_Code":2712.9,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Candles, rubber processing, coatings.",
+    "Category":"Specialty Chemicals",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Aluminum Oxide",
+    "HS_Code":2818.2,
+    "Common Grades":"Technical Grade",
+    "Applications":"Filler in plastics, abrasives.",
+    "Category":"Anhydrides & Oxides",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Antimony Trioxide",
+    "HS_Code":2825.8,
+    "Common Grades":"Flame Retardant Grade",
+    "Applications":"Flame retardant in PVC, rubber.",
+    "Category":"Anhydrides & Oxides",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Magnesium Oxide",
+    "HS_Code":2519.9,
+    "Common Grades":"Light Grade",
+    "Applications":"Curing, reinforcing filler in rubber, PU.",
+    "Category":"Anhydrides & Oxides",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Maleic Anhydride",
+    "HS_Code":2917.14,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Polyester resins, coatings.",
+    "Category":"Anhydrides & Oxides",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Phthalic Anhydride",
+    "HS_Code":2917.35,
+    "Common Grades":"Industrial Grade",
+    "Applications":"Plasticizers, alkyd resins.",
+    "Category":"Anhydrides & Oxides",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Silicon Dioxide (Silica)",
+    "HS_Code":2811.22,
+    "Common Grades":"Precipitated, Fumed",
+    "Applications":"Reinforcement in rubber, EVA foaming.",
+    "Category":"Anhydrides & Oxides",
+    "Unnamed: 5":null
+  },
+  {
+    "Product":"Zinc Oxide",
+    "HS_Code":2817.0,
+    "Common Grades":"Active Grade",
+    "Applications":"Rubber vulcanization, coatings.",
+    "Category":"Anhydrides & Oxides",
+    "Unnamed: 5":null
+  }
+]
