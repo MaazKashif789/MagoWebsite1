@@ -1,5 +1,4 @@
-// src/components/sections/Stats.tsx
-import React from 'react';
+
 import CountUp from 'react-countup';
 
 const Stats = () => {

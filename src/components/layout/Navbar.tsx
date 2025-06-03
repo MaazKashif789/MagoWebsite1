@@ -1,6 +1,5 @@
 // src/components/layout/Navbar.tsx
 import { useState } from 'react';
-import { Button } from "@/components/ui/button";
 import { useNavigate, useLocation } from 'react-router-dom';
 import '../../index.css';
 import logo from '../../assets/logo/mago.png';

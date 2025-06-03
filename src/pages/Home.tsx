@@ -1,12 +1,10 @@
 import { useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
-import Navbar from '../components/layout/Navbar';
 import Hero from '../components/sections/Hero';
 import About from '../components/sections/About';
 import Products from '../components/sections/Products';
 import Stats from '../components/sections/Stats';
 import Contact from '../components/sections/Contact';
-import Footer from '../components/layout/Footer';
 import Team from '@/components/sections/Team';
 const NAVBAR_HEIGHT = 64;
 

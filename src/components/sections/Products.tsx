@@ -1,28 +1,12 @@
 // src/components/sections/Products.tsx
 import { Button } from "@/components/ui/button";
-import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
 import { useNavigate } from 'react-router-dom';
 import containersImage from '../../assets/containers.jpg';
 
-interface Product {
-  id: string;
-  name: string;
-  description: string;
-  image: string;
-  subCategories?: {
-    id: string;
-    name: string;
-    description: string;
-    tdsLink?: string;
-  }[];
-  tdsLink?: string;
-}
+
 
 const Products = () => {
   const navigate = useNavigate();
-  const products: Product[] = [
-    // Add your products here
-  ];
 
   return (
     <section id="products" className="py-10 bg-[var(--color-background-light)]">

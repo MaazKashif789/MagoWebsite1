@@ -1,4 +1,3 @@
-import React from 'react';
 import spmIcon from '../../assets/services/spm.png';
 import srcIcon from '../../assets/services/src.png';
 import srqcIcon from '../../assets/services/srqc.png';

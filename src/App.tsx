@@ -2,7 +2,6 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { HelmetProvider } from 'react-helmet-async';
 import Navbar from './components/layout/Navbar';
-import Breadcrumbs from './components/layout/Breadcrumbs';
 import ProductsPage from './pages/ProductsPage';
 import NotFound from './pages/NotFound';
 import Home from './pages/Home';
