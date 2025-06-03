@@ -55,7 +55,7 @@ const Navbar = () => {
               onClick={(e) => handleNavClick(e, '#hero')} 
               className="flex items-center min-w-0"
             >
-              <img src={logo} alt="Mago Enterprises Logo" className="h-10 sm:h-12 w-auto max-w-[140px]" />
+              <img src={logo} alt="Mago Enterprises Logo" className="h-10 sm:h-12 w-[200px] object-contain" />
             </a>
           </div>
           {/* Desktop Navigation always right */}

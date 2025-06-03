@@ -30,7 +30,7 @@ const teamMembers = [
 
 const Team = () => {
   return (
-    <section id="team" className="py-6 bg-[var(--color-background-light)]" aria-label="Our Team">
+    <section id="contact" className="py-6 bg-[var(--color-background-light)]" aria-label="Our Team">
       <div className="container mx-auto px-4">
         <div className="relative grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
           {/* Image Section */}

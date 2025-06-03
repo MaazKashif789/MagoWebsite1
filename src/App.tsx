@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { HelmetProvider } from 'react-helmet-async';
 import Navbar from './components/layout/Navbar';
 import ProductsPage from './pages/ProductsPage';
-import NotFound from './pages/NotFound';
+// import NotFound from './pages/NotFound';
 import Home from './pages/Home';
 import Footer from './components/layout/Footer';
 
@@ -17,8 +17,7 @@ function App() {
           <main className="flex-grow">
             <Routes>
               <Route path="/products" element={<ProductsPage />} />
-              <Route path="/" element={<Home />} />
-              <Route path="*" element={<NotFound />} />
+              <Route path="*" element={<Home />} />
             </Routes>
           </main>
           <Footer />

@@ -4,7 +4,7 @@ import Hero from '../components/sections/Hero';
 import About from '../components/sections/About';
 import Products from '../components/sections/Products';
 import Stats from '../components/sections/Stats';
-import Contact from '../components/sections/Contact';
+//import Contact from '../components/sections/Contact';
 import Team from '@/components/sections/Team';
 const NAVBAR_HEIGHT = 64;
 
@@ -37,7 +37,7 @@ const Home = () => {
         <Products />
         <Team />
         <Stats />
-        <Contact />
+        {/* <Contact /> */}
       </main>
       {/* <Footer /> */}
     </div>
