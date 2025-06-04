@@ -5,18 +5,18 @@ import { Search, ArrowLeft } from 'lucide-react';
 import truckbg from '../assets/truckbg.jpg';
 
 // Import all category images
-import polymers from '../assets/Products/polymers.jpg';
-import engineeringPlastics from '../assets/Products/engineering_plastics.png';
-import rubber from '../assets/Products/rubber.jpg';
-import pu from '../assets/Products/PU.png';
-import plasticizers from '../assets/Products/Plasticizers.png';
-import blowingAgent from '../assets/Products/blowing_agent.png';
-import additive from '../assets/Products/additive.png';
-import fillers from '../assets/Products/Fillers.png';
-import pigments from '../assets/Products/pigments.png';
-import solvents from '../assets/Products/solvents.png';
-import speciality from '../assets/Products/speciality.png';
-import oxides from '../assets/Products/oxides.png';
+import polymers from '../assets/Products/polymers.webp';
+import engineeringPlastics from '../assets/Products/engineering_plastics.webp';
+import rubber from '../assets/Products/rubber.webp';
+import pu from '../assets/Products/PU.webp';
+import plasticizers from '../assets/Products/Plasticizers.webp';
+import blowingAgent from '../assets/Products/blowing_agent.webp';
+import additive from '../assets/Products/additive.webp';
+import fillers from '../assets/Products/Fillers.webp';
+import pigments from '../assets/Products/pigments.webp';
+import solvents from '../assets/Products/solvents.webp';
+import speciality from '../assets/Products/speciality.webp';
+import oxides from '../assets/Products/oxides.webp';
 
 interface Category {
   Category: string;
@@ -141,7 +141,7 @@ const ProductsPage = () => {
               {selectedCategory && (
                 <button
                   onClick={handleBackToCategories}
-                  className="flex items-center gap-2 text-white hover:text-gray-200 transition-colors mx-auto"
+                  className="flex items-center gap-2 bg-[var(--color-primary)] text-white rounded-full hover:bg-[var(--color-secondary)] transition-colors mx-auto"
                 >
                   <ArrowLeft className="h-5 w-5" />
                   Back to Categories

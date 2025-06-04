@@ -1,7 +1,7 @@
 // src/components/sections/Products.tsx
 import { Button } from "@/components/ui/button";
 import { useNavigate } from 'react-router-dom';
-import containersImage from '../../assets/containers.jpg';
+import containersImage from '../../assets/containers.webp';
 
 
 

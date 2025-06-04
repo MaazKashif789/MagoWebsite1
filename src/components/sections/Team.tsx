@@ -1,4 +1,4 @@
-import teamImage from '../../assets/team.jpeg';
+import teamImage from '../../assets/team.webp';
 import { Mail, Phone } from 'lucide-react';
 
 const teamMembers = [
@@ -49,7 +49,7 @@ const Team = () => {
           <div className="space-y-4 order-1 md:order-2 md:ml-8" data-aos="fade-left">
             <div className="flex justify-center md:justify-start">
               <h1 className="text-3xl font-bold text-[var(--color-primary)] border-b-2 border-[var(--color-primary)] pb-2 inline-block text-center">
-                Our Leadership Team
+                Contact Us
               </h1>
             </div>
             <div className="flex flex-col items-center md:items-start md:grid md:grid-cols-2 gap-6">

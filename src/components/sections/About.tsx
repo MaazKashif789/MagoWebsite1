@@ -1,5 +1,5 @@
-import { Button } from "@/components/ui/button";
-import aboutImage from '../../assets/Aboutoffice.jpg';
+//import { Button } from "@/components/ui/button";
+import aboutImage from '../../assets/Aboutoffice.webp';
 
 const About = () => {
   return (
@@ -19,11 +19,6 @@ const About = () => {
                 Mago offers a variety of chemical products with diverse applications and uses, servicing a wide range of industries. We continuously diversify our product portfolio to meet the needs of the ever-evolving industries we serve. Since inception in 1992 our philosophy has been founded on the sourcing and development of competitive chemical supply originating from the Pacific Rim, with a strong emphasis on China, Taiwan, Korea, Japan, and Indonesia.
               </p>
             </div>
-            <Button 
-              className="bg-[var(--color-primary)] hover:bg-[var(--color-secondary)] text-white px-6 py-2 rounded-full transition-all duration-300 hover:shadow-lg transform hover:-translate-y-1"
-            >
-              Learn More
-            </Button>
           </div>
           {/* Image Section */}
           <div 

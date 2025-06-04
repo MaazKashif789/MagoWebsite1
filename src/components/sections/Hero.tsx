@@ -1,9 +1,9 @@
 // src/components/sections/Hero.tsx
 import { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import hero1 from '../../assets/Hero/containers.jpg';
-import hero2 from '../../assets/Hero/Hero Image 2.jpg';
-import hero3 from '../../assets/Hero/Hero Image 1.jpg';
+import hero1 from '../../assets/Hero/containers.webp';
+import hero2 from '../../assets/Hero/Hero Image 2.webp';
+import hero3 from '../../assets/Hero/Hero Image 1.webp';
 import { Button } from "@/components/ui/button";
 
 const Hero = () => {
